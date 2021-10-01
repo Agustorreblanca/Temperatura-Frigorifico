@@ -1,5 +1,4 @@
 # Control de Temperatura Cámara Frigorifica
-
 ```c
 #include <stdio.h>
 #include <stdlib.h>
