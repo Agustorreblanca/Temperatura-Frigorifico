@@ -1,8 +1,5 @@
 #include "lib.h"
 #include <time.h>
-
-
-FILE *P;
 int tempfiltro(int x)
 {
 
